@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
+  color: var(--text-color);
+  font-family: sans-serif;
+  font-family: var(--font-custom);
+}
+
+.glowing-background {
+  background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
+}
+
+.font-custom {
+  font-family: var(--font-custom);
+}
+
+input::placeholder {
+  color: #a0aec0;
+  opacity: 1;
+}
+
+input {
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  padding: 10px;
+  border-radius: 8px;
+}
