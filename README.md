@@ -29,4 +29,5 @@ A shopping cart application built with React and Vite. It allows users to browse
 ```
 
 # Image of the Shopping Cart:
-![image](https://github.com/user-attachments/assets/26c0e81b-326f-4948-81d9-ebe40dc5122c)
+![image](https://github.com/user-attachments/assets/c1164fbd-77db-45c7-ab0a-5405be34a265)
+
